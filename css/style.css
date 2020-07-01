@@ -1,7 +1,3 @@
-/* Cascading stylesheet for the web page "Kitchen Blue"
-   Created by Harrison Kong
-   Copyright (C) Coursera 2020 */
-
 body {
   color: #5a5a5a;
   background-color: #5da846;
@@ -88,15 +84,15 @@ a:hover {
   margin-top: 3rem;
   margin-bottom: 1rem;
   text-align: center;
+  color: rgb(230, 109, 72);
 }
 
 .section-subheading {
-  color: white;
+  color: rgb(238, 228, 93);
   font-size: 2em;
   margin-top: 2rem;
   margin-bottom: 2rem;
   text-align: center;
-  text-shadow: 3px 3px 10px black;
 }
 
 .section-description {
