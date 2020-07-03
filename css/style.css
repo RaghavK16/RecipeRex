@@ -30,7 +30,6 @@ p {
 
 h1 {
   color: white;
-  text-shadow: 3px 3px 10px black;
 }
 
 li {
@@ -84,7 +83,7 @@ a:hover {
   margin-top: 3rem;
   margin-bottom: 1rem;
   text-align: center;
-  color: rgb(230, 109, 72);
+  color: rgb(173, 24, 24);
 }
 
 .section-subheading {
