@@ -72,12 +72,16 @@ a:hover {
   max-width: 88%;
   text-shadow: 3px 3px 10px black;
 }
-
+/*
 .banner-img {
-  width: 100%;
+  margin-left: 50px;
+  margin-right: 50px;
+  position: fixed;
+  align-content: center;
+  width: 100px;
   height: 400px;
 }
-
+*/
 .section-heading {
   font-size: 3.3em;
   margin-top: 3rem;
