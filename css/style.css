@@ -1,6 +1,6 @@
 body {
   color: #5a5a5a;
-  background-color: #5da846;
+  background-color: #469da8;
   overflow-x: hidden;
 }
 
@@ -83,11 +83,11 @@ a:hover {
   margin-top: 3rem;
   margin-bottom: 1rem;
   text-align: center;
-  color: rgb(173, 24, 24);
+  color: rgb(151, 32, 32);
 }
 
 .section-subheading {
-  color: rgb(238, 228, 93);
+  color: rgb(138, 221, 105);
   font-size: 2em;
   margin-top: 2rem;
   margin-bottom: 2rem;
